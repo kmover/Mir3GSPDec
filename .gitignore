@@ -1,0 +1,11 @@
+*.sdf
+ipch
+*.exe
+*.iobj
+*.ipdb
+*.pdb
+/decryptMono/Release
+/decryptMono/Debug
+*.ilk
+*.user
+*.suo
